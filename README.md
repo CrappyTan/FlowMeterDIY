@@ -23,3 +23,8 @@ If you do not put any sensors in it will use find them and not publish. No harm,
 Pins:
 	One-wire Sensor pins on are D2
 	Flow hall-Effect is on pin zero (Sorry, don't know what pin mapping that is)
+	
+	
+	
+Original OpenHAB discussion thread: https://community.openhab.org/t/water-meter-another-one/88418
+
